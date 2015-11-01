@@ -1,0 +1,19 @@
+{
+  "name": "pixi-input",
+  "version": "1.0.0",
+  "description": "Changelog ================ [19.10.2014] Added Bitmap support.",
+  "main": "src/pixi.input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasilvacontin/PIXI.Input.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasilvacontin/PIXI.Input/issues"
+  },
+  "homepage": "https://github.com/dasilvacontin/PIXI.Input#readme"
+}
